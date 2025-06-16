@@ -50,8 +50,9 @@ In the meantime, you can do whatever you want with your branch, or new branches!
 
 ## TO DO
 Thanks for reading to the end of the README. To practice this, and to make sure everyone understands the process, I want you to follow the steps, set-up your GitHub account, set-up your environment, create a new branch, write some dummy code, push, and create a pull request. Follow the steps below on how to create some dummy code once you've created your new branch.
-1. Create a file and modify it in vim: `vi test.txt`
-2. Press `i`. You should see `INSERT` appear on the bottom left of your terminal.
-3. Type your name.
-4. Press `esc`. This will exit insert mode.
-5. Type `:x` and press `Enter`. This will write and save your work, and you should be back in your directory.
+1. Run `git pull`. Do this every time you are about to work on the project, in case new changes have been made. If there are merge conflicts, just message me and we can sort them out together.
+2. Create a file and modify it in vim: `vi test.txt`
+3. Press `i`. You should see `INSERT` appear on the bottom left of your terminal.
+4. Type your name.
+5. Press `esc`. This will exit insert mode.
+6. Type `:x` and press `Enter`. This will write and save your work, and you should be back in your directory.
