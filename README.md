@@ -6,6 +6,7 @@ Once the project specs are released, I'll update this README with steps to set-u
 ## Step 1: Create a GitHub Account
 If you've never used GitHub before, the first step is to create your account here: https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github 
 Once you've created and verified your account, it may be a good idea to set-up 2FA for better security, but you can do this anytime you prefer.
+**Send me your Github username so that I can add you as a collaborator**
 
 ## Step 2: Create an SSH Key in your local machine
 I believe most of us here use Mac, so follow along to create your SSH key that you will need to contribute to this repository.
