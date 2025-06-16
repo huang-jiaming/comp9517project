@@ -1,7 +1,7 @@
 # 16/06/2025 Initial Setup
 
-Let's get this project started! Follow the guide below to set-up your Git environment.
-Once the project specs are released, I'll update this README with steps to set-up our project environment.
+Let's get this project started! Follow the guide below to set up your Git environment.
+Once the project specs are released, I'll update this README with steps to set up our project environment.
 
 ## Step 1: Create a GitHub Account
 If you've never used GitHub before, the first step is to create your account here: https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github 
