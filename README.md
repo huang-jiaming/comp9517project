@@ -50,7 +50,7 @@ Now that you've done the work and pushed your changes to your branch, you can cr
 In the meantime, you can do whatever you want with your branch, or new branches! New changes will be reflected when you open your next Pull Request. Congratulations on your first contribution to the project!
 
 ## TO DO
-Thanks for reading to the end of the README. To practice this, and to make sure everyone understands the process, I want you to follow the steps, set-up your GitHub account, set-up your environment, create a new branch, write some dummy code, push, and create a pull request. Follow the steps below on how to create some dummy code once you've created your new branch.
+Thanks for reading to the end of the README. To practice this, and to make sure everyone understands the process, I want you to follow these steps: set-up your GitHub account, set-up your environment, create a new branch, write some dummy code, push, and create a pull request. Follow the steps below on how to create some dummy code once you've created your new branch.
 1. Run `git pull`. Do this every time you are about to work on the project, in case new changes have been made. If there are merge conflicts, just message me and we can sort them out together.
 2. Create a file and modify it in vim: `vi test.txt`
 3. Press `i`. You should see `INSERT` appear on the bottom left of your terminal.
